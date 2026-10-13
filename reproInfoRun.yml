@@ -8,4 +8,4 @@ pool: default
 
 steps:
 - script: echo hello
-   displayName: [
+   displayName: [[[
