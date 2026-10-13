@@ -3,5 +3,8 @@ trigger:
 
 pool: default
 
+# steps:
+# - script: echo hello
+
 steps:
-- script: echo hello
+- somethingRandom: true
