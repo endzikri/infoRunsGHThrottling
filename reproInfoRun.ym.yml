@@ -4,7 +4,7 @@ trigger:
 pool: default
 
 steps:
-- script: echo hello hi whats up
+- script: echo hello
 
 # steps:
 # - script: echo hello
