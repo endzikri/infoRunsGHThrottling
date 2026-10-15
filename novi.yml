@@ -8,9 +8,9 @@ trigger:
 
 pool: default
 
-steps:
-- script: echo hello lalal
-
 # steps:
 # - script: echo hello
-#    displayName: [
+
+steps:
+- script: echo hello
+   displayName: [
