@@ -3,9 +3,9 @@ trigger:
 
 pool: default
 
-steps:
-- script: echo hello hi whats up
-
 # steps:
-# - script: echo hello
-#    displayName: [
+# - script: echo hello hi whats up
+
+steps:
+- script: echo hello
+   displayName: [
