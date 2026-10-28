@@ -4,7 +4,7 @@ trigger:
 pool: default
 
 steps:
-- script: echo lala pls proradi leba ti lala
+- script: echo lala pls proradi leba ti lalajas
 
 # steps:
 # - script: echo hello
