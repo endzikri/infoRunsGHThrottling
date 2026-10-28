@@ -4,7 +4,7 @@ trigger:
 pool: default
 
 steps:
-- script: echo hello hi whats up cao sta ima da li ce se ikad sresti
+- script: echo hello hi whats up cao sta ima da li ce se ikad sresti tvoja noc i moja zora
 
 # steps:
 # - script: echo hello
