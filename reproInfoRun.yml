@@ -4,7 +4,7 @@ trigger:
 pool: default
 
 steps:
-- script: echo gledam banat srem i backu s fruske gore github build updated event pleaselalla
+- script: echo lala
 
 # steps:
 # - script: echo hello
