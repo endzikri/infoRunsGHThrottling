@@ -4,7 +4,7 @@ trigger:
 pool: default
 
 steps:
-- script: echo testing gh throttling
+- script: echo testing gh throttling 1
 
 # steps:
 # - script: echo hello
