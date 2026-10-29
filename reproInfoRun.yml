@@ -3,9 +3,9 @@ trigger:
 
 pool: default
 
-steps:
-- script: echo sneg sa vrha durmitora
-
 # steps:
-# - script: echo hello
-#    displayName: [[
+# - script: echo sneg sa vrha durmitora
+
+steps:
+- script: echo hello
+   displayName: [[
