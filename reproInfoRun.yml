@@ -1,5 +1,5 @@
-trigger:
-- main
+# trigger: # removing trigger for real throttling testing
+# - main
 
 pool: default
 
