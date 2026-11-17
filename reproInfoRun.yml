@@ -4,7 +4,7 @@
 pool: default
 
 steps:
-- script: echo testing gh throttling lalalalas
+- script: echo testing gh throttling lalalalaes
 
 # steps:
 # - script: echo hello
