@@ -3,9 +3,9 @@
 
 pool: default
 
-steps:
-- script: echo testing gh throttling llalalw
-
 # steps:
-# - script: echo hello
-#    displayName: [[[
+# - script: echo testing gh throttling llalalw
+
+steps:
+- script: echo hello
+   displayName: [[[
